@@ -1,0 +1,40 @@
+/* ProjectPage.css */
+
+.project-page {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .left-door,
+  .right-door {
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 50%;
+    background-color: #000000; /* Set the background color you want */
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .left-door {
+    left: 0;
+  }
+  
+  .right-door {
+    right: 0;
+  }
+  
+  .project-content {
+    z-index: 1; /* Bring the content to the front */
+    position: relative;
+    color: #333; /* Set the text color you want */
+  }
+  
+  .project-page.loaded .left-door {
+    transform: translateX(-100%);
+  }
+  
+  .project-page.loaded .right-door {
+    transform: translateX(100%);
+  }
+  
