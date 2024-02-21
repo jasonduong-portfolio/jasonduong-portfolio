@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jasonduong-portfolio/static/css/main.a4b74fec.css",
-    "main.js": "/jasonduong-portfolio/static/js/main.1a9775d4.js",
-    "static/media/toothless.gif": "/jasonduong-portfolio/static/media/toothless.7480d626ea3e0c219027.gif",
-    "static/media/me.png": "/jasonduong-portfolio/static/media/me.8eb4f8f77d6f7329a6dd.png",
-    "static/media/link.cur": "/jasonduong-portfolio/static/media/link.1a62bddbdacc5ab0c227.cur",
-    "static/media/normal.cur": "/jasonduong-portfolio/static/media/normal.89aa4c40da06d2a21eba.cur",
-    "static/media/edu_icon.svg": "/jasonduong-portfolio/static/media/edu_icon.f3386ea53299bb8f5e0d377543441068.svg",
-    "static/media/skill_icon.svg": "/jasonduong-portfolio/static/media/skill_icon.c8d164663f0e86248bf27723ff6add90.svg",
-    "static/media/work_icon.svg": "/jasonduong-portfolio/static/media/work_icon.c5fbddfeb3c7c2547518e287a69b5b7b.svg",
-    "static/media/resume_title_accent_l.svg": "/jasonduong-portfolio/static/media/resume_title_accent_l.6a75b4f4ae102d2fdfeef87ca5951501.svg",
-    "static/media/resume_title_accent_r.svg": "/jasonduong-portfolio/static/media/resume_title_accent_r.32ef20f935821b845aece145f2f6121b.svg",
-    "index.html": "/jasonduong-portfolio/index.html",
-    "main.a4b74fec.css.map": "/jasonduong-portfolio/static/css/main.a4b74fec.css.map",
-    "main.1a9775d4.js.map": "/jasonduong-portfolio/static/js/main.1a9775d4.js.map"
+    "main.css": "./static/css/main.a4b74fec.css",
+    "main.js": "./static/js/main.60c98894.js",
+    "static/media/toothless.gif": "./static/media/toothless.7480d626ea3e0c219027.gif",
+    "static/media/me.png": "./static/media/me.8eb4f8f77d6f7329a6dd.png",
+    "static/media/link.cur": "./static/media/link.1a62bddbdacc5ab0c227.cur",
+    "static/media/normal.cur": "./static/media/normal.89aa4c40da06d2a21eba.cur",
+    "static/media/edu_icon.svg": "./static/media/edu_icon.f3386ea53299bb8f5e0d377543441068.svg",
+    "static/media/skill_icon.svg": "./static/media/skill_icon.c8d164663f0e86248bf27723ff6add90.svg",
+    "static/media/work_icon.svg": "./static/media/work_icon.c5fbddfeb3c7c2547518e287a69b5b7b.svg",
+    "static/media/resume_title_accent_l.svg": "./static/media/resume_title_accent_l.6a75b4f4ae102d2fdfeef87ca5951501.svg",
+    "static/media/resume_title_accent_r.svg": "./static/media/resume_title_accent_r.32ef20f935821b845aece145f2f6121b.svg",
+    "index.html": "./index.html",
+    "main.a4b74fec.css.map": "./static/css/main.a4b74fec.css.map",
+    "main.60c98894.js.map": "./static/js/main.60c98894.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b74fec.css",
-    "static/js/main.1a9775d4.js"
+    "static/js/main.60c98894.js"
   ]
 }
